@@ -1,0 +1,6 @@
+module Pods_SlackChatApp_SlackChatAppTests {
+  umbrella header "Pods-SlackChatApp-SlackChatAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
