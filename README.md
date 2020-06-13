@@ -1,12 +1,14 @@
 # SlackChatApp
 
-# Install npm dependencies
+
+
+-Install npm dependencies
 yarn
 
-# Install pod dependencies
+-Install pod dependencies
 cd ios && pod install && cd ..
 
-# Run on ios simulator
+-Run on ios simulator
 react-native run-ios
 
 
