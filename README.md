@@ -1,17 +1,13 @@
 # SlackChatApp
- 
 
-Run:
+# Install npm dependencies
+yarn
 
+# Install pod dependencies
+cd ios && pod install && cd ..
 
-
--iOS Simulator
-Run npx react-native run-ios inside the  project directory
-
-
--Android Simulator
-Run npx react-native run-android inside the  project directory
-Instructions:
+# Run on ios simulator
+react-native run-ios
 
 
 References: Tutorial: How to Build a Slack Clone with React Native
